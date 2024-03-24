@@ -1,3 +1,6 @@
+#### - Modified GSAP's package.json to use ESM in Cocos Creator 3.x.
+#### - Export only extra plugins: CustomEase, EasePack and MotionPathPlugin. Other plugins only support DOM elements, so cannot be used in Cocos Creator.
+## -------------------------------------------------------------------
 # GSAP (GreenSock Animation Platform)
 
 [![GSAP - Animate anything](https://gsap.com/GSAP-share-image.png)](http://gsap.com)
