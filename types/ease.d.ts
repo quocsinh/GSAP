@@ -129,7 +129,7 @@ declare module "gsap/gsap-core" {
   export const Strong: gsap.Ease;
 }
 
-declare module "gsap/EasePack" {
+declare module "gsap-cc3/EasePack" {
   export const EasePack: gsap.EasePack;
   export const ExpoScaleEase: gsap.ExpoScaleEase;
   export const SlowMo: gsap.SlowMo;

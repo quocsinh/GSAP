@@ -273,7 +273,7 @@ declare namespace MotionPath {
 
 declare const MotionPathPlugin: gsap.plugins.MotionPathPlugin;
 
-declare module "gsap/MotionPathPlugin" {
+declare module "gsap-cc3/MotionPathPlugin" {
   export const MotionPathPlugin: gsap.plugins.MotionPathPlugin;
   export { MotionPathPlugin as default };
 }

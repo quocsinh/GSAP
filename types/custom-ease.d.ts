@@ -1,7 +1,7 @@
 // TODO
 declare const CustomEase: any;
 
-declare module "gsap/CustomEase" {
+declare module "gsap-cc3/CustomEase" {
 
   // TODO
   export const CustomEase: any;

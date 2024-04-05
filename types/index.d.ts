@@ -57,7 +57,7 @@ type GSAPTweenVars = gsap.TweenVars;
 
 type GSAP = typeof gsap;
 
-declare module "gsap" {
+declare module "gsap-cc3" {
   export * from "gsap/gsap-core";
   export { gsap as default } from "gsap/gsap-core";
 }
